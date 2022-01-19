@@ -10,5 +10,4 @@ namespace CourseWork
     {
         public static string Text = string.Empty;
     }
-    //12345
 }
