@@ -79,7 +79,7 @@ namespace CourseWork
                 Password.Text = string.Empty;
             }
 
-            else if (Login.Text == "sergey" && Password.Text == "sergey")
+            else if (Login.Text == "admin" && Password.Text == "admin")
             {
                 var admin_panel = new Admin_Panel();
                 admin_panel.Show();
