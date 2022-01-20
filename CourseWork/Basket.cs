@@ -8,6 +8,7 @@ namespace CourseWork
 {
     static class Basket
     {
+        //Корзина
         public static List<int> ListBarcode = new List<int>();
         public static List<int> ListCount = new List<int>();
         public static List<string> ListName = new List<string>();
